@@ -1,0 +1,50 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="one_page.html" resolutions="1x" timestamp="1624465059462">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4290746776" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted image 1900x1250.jpg" crc="216185835" seo="true" ref="index"/>
+    <file name="navbar-logo.svg" crc="142921465" seo="true" ref="index"/>
+    <file name="navbar-logo_poster_.png" crc="82339806" ref="index"/>
+    <file name="pasted image 149x139.jpg" crc="141020406" seo="true" ref="index"/>
+    <file name="pasted image 143x139.jpg" crc="4010323511" seo="true" ref="index"/>
+    <file name="pasted image 131x142.jpg" crc="3838800958" seo="true" ref="index"/>
+    <file name="pasted image 600x450.jpg" crc="3947193055" seo="true" ref="index"/>
+    <file name="pasted image 600x4502.jpg" crc="3947193055" ref="index"/>
+    <file name="pasted image 600x4503.jpg" crc="169154272" ref="index"/>
+    <file name="pasted image 600x4504.jpg" crc="169154272" seo="true" ref="index"/>
+    <file name="pasted image 600x4505.jpg" crc="4188075044" seo="true" ref="index"/>
+    <file name="pasted image 200x200.jpg" crc="3824761697" seo="true" ref="index"/>
+    <file name="pasted image 200x2002.jpg" crc="4097877422" seo="true" ref="index"/>
+    <file name="pasted image 200x2003.jpg" crc="429899526" seo="true" ref="index"/>
+    <file name="pasted image 200x2004.jpg" crc="66731682" seo="true" ref="index"/>
+    <file name="pasted image 600x4506.jpg" crc="4141730828" seo="true" ref="index"/>
+    <file name="pasted image 500x500.jpg" crc="4103145814" seo="true" ref="index"/>
+    <file name="pasted image 500x5002.jpg" crc="4261669468" seo="true" ref="index"/>
+    <file name="pasted image 500x5003.jpg" crc="446109315" seo="true" ref="index"/>
+    <file name="untitled-1.png" crc="4109346533" ref="index"/>
+    <file name="pasted image 600x45042.jpg" crc="4188075044" ref="index"/>
+    <file name="pasted image 600x45062.jpg" crc="4141730828" ref="index"/>
+    <file name="pasted image 600x4507.jpg" crc="4193322550" seo="true" ref="index"/>
+    <file name="pasted image 600x45052.jpg" crc="4193322550" ref="index"/>
+    <file name="microsoft.svg" crc="56371312" seo="true" ref="index"/>
+    <file name="microsoft_poster_.png" crc="394020196" ref="index"/>
+    <file name="ibm.svg" crc="35966131" seo="true" ref="index"/>
+    <file name="ibm_poster_.png" crc="4236233495" ref="index"/>
+    <file name="facebook.svg" crc="3829403542" seo="true" ref="index"/>
+    <file name="facebook_poster_.png" crc="222473278" ref="index"/>
+    <file name="google.svg" crc="249614868" seo="true" ref="index"/>
+    <file name="google_poster_.png" crc="134847899" ref="index"/>
+  </folder>
+  <file name="index.html" crc="139603617" seo="true" mt="1624465050523" redirect="true"/>
+</manifest>
